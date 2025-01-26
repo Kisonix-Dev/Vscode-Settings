@@ -5,6 +5,7 @@
 	"explorer.confirmDelete": false,
 
 	//Window
+	"window.restoreWindows": "none",
 	"window.commandCenter": false,
 	"window.customTitleBarVisibility": "auto",
 	"window.menuBarVisibility": "toggle",
