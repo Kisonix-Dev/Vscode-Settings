@@ -1,0 +1,29 @@
+[
+	//Create New file & folder
+	{
+		"key": "a",
+		"command": "explorer.newFile",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+a",
+		"command": "explorer.newFolder",
+		"when": "filesExplorerFocus && !inputFocus"
+	},
+
+	//Tabs
+	{
+		"key": "ctrl+tab",
+		"command": "-workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup",
+		"when": "!activeEditorGroupEmpty"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "-workbench.action.quickOpenNavigateNextInEditorPicker",
+		"when": "inEditorsPicker && inQuickOpen"
+	},
+	{
+		"key": "ctrl+tab",
+		"command": "workbench.action.nextEditor"
+	}
+]
