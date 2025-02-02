@@ -13,7 +13,7 @@
 1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 2. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 3. [Bash Extension Pack](https://marketplace.visualstudio.com/items?itemName=pinage404.bash-extension-pack)
-4. [Duck Mode!](https://marketplace.visualstudio.com/items?itemName=MEvesalTR.duck-mode-vscode)
+4. [RetroDark](https://marketplace.visualstudio.com/items?itemName=vettspace.retrodarktheme)
 5. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 6. [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
 7. [Polacode-2022](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
@@ -30,3 +30,5 @@ I don't use it, but I left it just in case:
 
 1. [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
 2. [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+3. [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+4. [Duck Mode!](https://marketplace.visualstudio.com/items?itemName=MEvesalTR.duck-mode-vscode)
