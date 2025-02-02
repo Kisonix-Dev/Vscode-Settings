@@ -4,9 +4,9 @@
 
 > I decided to post my settings that I use in VsCode on a regular basis. Sometimes I often change the theme because I don't like it, but at the moment I have settled on one theme, but in the future I may change it. All current updates to my configuration, you can find on GitHub
 
-### [Settings](https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/settings.json)
+### [📂 Settings](https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/settings.json)
 
-### [KeyBindings](https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/keybindings.json)
+### [📂 KeyBindings](https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/keybindings.json)
 
 # Extensions
 
