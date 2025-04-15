@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/img/logo.png"></p>
+<p align="center"><img src=".github/img/img.png"></p>
 
 # Vscode-Settings
 
