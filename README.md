@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/img/img.png"></p>
+<p align="center"><img src=".github/img/new-img.png"></p>
 
 # My VScode settings
 
