@@ -19,8 +19,6 @@
 	"prettier.jsxSingleQuote": true,
 	"prettier.singleQuote": true,
 	"prettier.arrowParens": "avoid",
-	"editor.formatOnType": true,
-	"csharp.suppressProjectJsonWarning": true,
 
 	//Other
 	"glassit.alpha": 250,
@@ -38,9 +36,8 @@
 	"workbench.list.smoothScrolling": true,
 	"workbench.tree.indent": 18,
 	"workbench.panel.showLabels": false,
-	"workbench.colorTheme": "Duck in the Lake",
 	"workbench.statusBar.visible": false,
-	"workbench.preferredHighContrastColorTheme": "RetroDark",
+	"workbench.colorTheme": "One Dark Pro",
 
 	//Editor
 	"[shellscript]": {
@@ -62,6 +59,7 @@
 	"editor.formatOnPaste": true,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.minimap.enabled": false,
+	"editor.formatOnType": true,
 
 	//Breadcrumbs
 	"breadcrumbs.enabled": false,
@@ -94,7 +92,9 @@
 	"breadcrumbs.icons": false,
 	"breadcrumbs.showArrays": false,
 
-	//Terminal
+	//Other
 	"terminal.integrated.cursorStyleInactive": "line",
-	"terminal.integrated.defaultProfile.linux": "zsh"
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"chat.commandCenter.enabled": false,
+	"csharp.suppressProjectJsonWarning": true
 }
