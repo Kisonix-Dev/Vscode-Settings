@@ -14,11 +14,15 @@
 	"[csharp]": {
 		"editor.defaultFormatter": "ms-dotnettools.csharp"
 	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
 	"prettier.useTabs": true,
 	"prettier.semi": false,
 	"prettier.jsxSingleQuote": true,
 	"prettier.singleQuote": true,
 	"prettier.arrowParens": "avoid",
+	"editor.formatOnSave": true,
 
 	//Other
 	"glassit.alpha": 250,
@@ -57,7 +61,6 @@
 	"editor.glyphMargin": false,
 	"editor.folding": false,
 	"editor.formatOnPaste": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.minimap.enabled": false,
 	"editor.formatOnType": true,
 
@@ -96,5 +99,6 @@
 	"terminal.integrated.cursorStyleInactive": "line",
 	"terminal.integrated.defaultProfile.linux": "zsh",
 	"chat.commandCenter.enabled": false,
-	"csharp.suppressProjectJsonWarning": true
+	"csharp.suppressProjectJsonWarning": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode"
 }
