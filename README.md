@@ -3,7 +3,7 @@
 # My VScode settings
 
 > **ℹ️ Note**  
-> I decided to post my settings that I use in VScode on a regular basis. Sometimes I change the theme often because I don't like it, but at the moment I have settled on one theme, but in the future I may change it. All current updates to my configuration you can find here.
+> I decided to post my settings that I use in VScode on a regular basis.
 <br>
 <p align="center">
 <a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/settings.json"><img src="https://img.shields.io/badge/Settings-8A2BE2?style=for-the-badge&logo=gear&logoColor=white" alt="Settings"></a>
@@ -23,12 +23,3 @@
 9. [C# Dev kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 10. [.NET install tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
 11. [lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)
-
-### I don't use it, but I left it just in case:
-
-1. [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
-2. [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
-3. [Bash Extension Pack](https://marketplace.visualstudio.com/items?itemName=pinage404.bash-extension-pack)
-4. [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
-5. [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-6. [CraftOS-PC for VS Code](https://marketplace.visualstudio.com/items?itemName=jackmacwindows.craftos-pc)
