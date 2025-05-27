@@ -15,7 +15,7 @@
 1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 2. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 3. [One Dark Pro](https://marketplace.visualstudio.com/items/?itemName=zhuangtongfa.Material-theme)
-4. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+4. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) or [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
 5. [Polacode-2022](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
 6. [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 7. [Nuget GUI Manager](https://marketplace.visualstudio.com/items?itemName=nosa.nugetmanager)
