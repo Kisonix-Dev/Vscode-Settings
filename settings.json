@@ -6,9 +6,7 @@
 
 	//Window
 	"window.restoreWindows": "none",
-	"window.commandCenter": false,
 	"window.customTitleBarVisibility": "auto",
-	"window.menuBarVisibility": "toggle",
 
 	//Prettier
 	"[csharp]": {
@@ -25,13 +23,8 @@
 	"editor.formatOnSave": true,
 
 	//Other
-	"glassit.alpha": 250,
 	"terminal.integrated.smoothScrolling": true,
-	"livePreview.notifyOnOpenLooseFile": false,
 	"security.workspace.trust.untrustedFiles": "open",
-
-	//Workbench
-	"workbench.iconTheme": "material-icon-theme",
 	"workbench.editor.editorActionsLocation": "hidden",
 	"workbench.editor.empty.hint": "hidden",
 	"workbench.layoutControl.enabled": false,
@@ -42,6 +35,10 @@
 	"workbench.panel.showLabels": false,
 	"workbench.statusBar.visible": false,
 	"workbench.colorTheme": "One Dark Pro",
+	"workbench.tree.indent": 17,
+	"editor.fontSize": 15,
+	"terminal.integrated.fontSize": 14,
+	"workbench.sideBar.location": "left",
 
 	//Editor
 	"[shellscript]": {
@@ -100,5 +97,8 @@
 	"terminal.integrated.defaultProfile.linux": "zsh",
 	"chat.commandCenter.enabled": false,
 	"csharp.suppressProjectJsonWarning": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode"
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"workbench.iconTheme": "helium-icon-theme",
+	"window.commandCenter": false,
+	"window.menuBarVisibility": "compact"
 }
