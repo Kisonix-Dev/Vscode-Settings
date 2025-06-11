@@ -23,3 +23,4 @@
 9. [C# Dev kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 10. [.NET install tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime)
 11. [lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)
+12. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
