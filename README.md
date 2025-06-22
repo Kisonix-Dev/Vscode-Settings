@@ -7,6 +7,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/settings.json"><img src="https://img.shields.io/badge/Settings-8A2BE2?style=for-the-badge&logo=gear&logoColor=white" alt="Settings"></a>
+<a href="https://github.com/Kisonix-Dev/Vscode-Settings/tree/main/snippets"><img src="https://img.shields.io/badge/Snippets-FFD700?style=for-the-badge&logo=gear&logoColor=black" alt="Snippets"></a>
 <a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/keybindings.json"><img src="https://img.shields.io/badge/KeyBindings-FF7F50?style=for-the-badge&logo=keyboard&logoColor=white" alt="KeyBindings"></a>
 </p>
 
