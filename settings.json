@@ -1,4 +1,11 @@
 {
+	//Terminal
+	"terminal.integrated.fontSize": 17,
+	"terminal.integrated.fontFamily": "Adwaita Mono",
+	"terminal.integrated.fontWeight": "bold",
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.cursorStyle": "line",
+
 	//Explorer
 	"explorer.compactFolders": false,
 	"explorer.confirmDragAndDrop": false,
@@ -20,10 +27,8 @@
 	"prettier.jsxSingleQuote": true,
 	"prettier.singleQuote": true,
 	"prettier.arrowParens": "avoid",
-	"editor.formatOnSave": true,
 
 	//Other
-	"terminal.integrated.smoothScrolling": true,
 	"security.workspace.trust.untrustedFiles": "open",
 	"workbench.editor.editorActionsLocation": "hidden",
 	"workbench.editor.empty.hint": "hidden",
@@ -35,14 +40,45 @@
 	"workbench.panel.showLabels": false,
 	"workbench.statusBar.visible": false,
 	"workbench.colorTheme": "One Dark Pro",
-	"workbench.tree.indent": 17,
 	"editor.fontSize": 15,
-	"terminal.integrated.fontSize": 14,
 	"workbench.sideBar.location": "left",
+	"workbench.colorCustomizations": {
+		"terminal.foreground": "#FFFFFF"
+	},
 
 	//Editor
 	"[shellscript]": {
 		"editor.defaultFormatter": "foxundermoon.shell-format"
+	},
+	"editor.tokenColorCustomizations": {
+		"[One Dark Pro]": {
+			"textMateRules": [
+				{
+					"scope": "comment.line",
+					"settings": {
+						"foreground": "#c0c0c0", // Example of a comment
+						"fontStyle": "italic"
+					}
+				},
+				{
+					"scope": "comment.block",
+					"settings": {
+						"foreground": "#c0c0c0"
+					}
+				}
+			]
+		},
+		"[One Dark]": {
+			"textMateRules": [
+				{
+					"scope": "comment",
+					"settings": {
+						"foreground": "#c0c0c0",
+						"fontStyle": "italic"
+					}
+				}
+			]
+		}
 	},
 	"editor.cursorStyle": "line",
 	"editor.cursorBlinking": "expand",
@@ -99,6 +135,8 @@
 	"csharp.suppressProjectJsonWarning": true,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"workbench.iconTheme": "helium-icon-theme",
-	"window.commandCenter": false,
-	"window.menuBarVisibility": "compact"
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmPasteNative": false,
+	"window.menuBarVisibility": "compact",
+	"window.commandCenter": false
 }

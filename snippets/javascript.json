@@ -1,0 +1,9 @@
+{
+  "JS Single-line Comment": {
+    "prefix": "cmt",
+    "body": [
+      "// ${1:Комментарий}$0"
+    ],
+    "description": "Вставляет однострочный JS-комментарий"
+  }
+}

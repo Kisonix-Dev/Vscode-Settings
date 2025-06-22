@@ -25,5 +25,23 @@
 	{
 		"key": "ctrl+tab",
 		"command": "workbench.action.nextEditor"
+	},
+
+	//Snippets
+	{
+		"key": "ctrl+1",
+		"command": "editor.action.insertSnippet",
+		"args": {
+			"name": "JS Single-line Comment"
+		},
+		"when": "editorTextFocus && editorLangId == 'javascript'"
+	},
+	{
+		"key": "ctrl+2",
+		"command": "editor.action.insertSnippet",
+		"args": {
+			"name": "CSS Comment"
+		},
+		"when": "editorTextFocus && editorLangId == 'css'"
 	}
 ]
