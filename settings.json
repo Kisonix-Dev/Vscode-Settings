@@ -39,7 +39,7 @@
 	"workbench.tree.indent": 18,
 	"workbench.panel.showLabels": false,
 	"workbench.statusBar.visible": false,
-	"workbench.colorTheme": "One Dark Pro",
+	"workbench.colorTheme": "Atom One Dark",
 	"editor.fontSize": 15,
 	"workbench.sideBar.location": "left",
 	"workbench.colorCustomizations": {
@@ -51,7 +51,7 @@
 		"editor.defaultFormatter": "foxundermoon.shell-format"
 	},
 	"editor.tokenColorCustomizations": {
-		"[One Dark Pro]": {
+		"[Atom One Dark]": {
 			"textMateRules": [
 				{
 					"scope": "comment.line",
