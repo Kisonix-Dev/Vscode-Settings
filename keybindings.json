@@ -43,5 +43,13 @@
 			"name": "CSS Comment"
 		},
 		"when": "editorTextFocus && editorLangId == 'css'"
+	},
+	{
+		"key": "ctrl+3",
+		"command": "editor.action.insertSnippet",
+		"args": {
+			"name": "html Comment"
+		},
+		"when": "editorTextFocus && editorLangId == 'html'"
 	}
 ]
