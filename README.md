@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/img/new-img.png"></p>
+<p align="center"><img src=".github/img/img.png"></p>
 
 > **ℹ️ Note**  
 > I decided to post my settings that I use in VScode on a regular basis.
@@ -13,6 +13,7 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="_blank" rel="noopener noreferrer"><img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="Auto Rename Tag">Auto Rename Tag</a><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek" target="_blank" rel="noopener noreferrer"><img src="https://pranaygp.gallerycdn.vsassets.io/extensions/pranaygp/vscode-css-peek/4.4.3/1741158075184/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="CSS Peek">CSS Peek</a><br>
+<a href="https://marketplace.visualstudio.com/items?itemName=huytd.tokyo-city" target="_blank" rel="noopener noreferrer"><img src="https://huytd.gallerycdn.vsassets.io/extensions/huytd/tokyo-city/0.2.4/1651123557688/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="Tokyo City">Tokyo City</a><br>
 <a href="https://marketplace.visualstudio.com/items/?itemName=zhuangtongfa.Material-theme" target="_blank" rel="noopener noreferrer"><img src="https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.19.0/1739115961196/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="One Dark Pro">One Dark Pro</a><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark" target="_blank" rel="noopener noreferrer"><img src="https://akamud.gallerycdn.vsassets.io/extensions/akamud/vscode-theme-onedark/2.3.0/1665238240663/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="Atom One Dark Theme">Atom One Dark Theme</a><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" rel="noopener noreferrer"><img src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/5.23.0/1747387467178/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32" alt="Material Icon Theme">Material Icon Theme</a><br>
