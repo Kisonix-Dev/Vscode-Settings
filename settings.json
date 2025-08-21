@@ -39,11 +39,10 @@
 	"workbench.tree.indent": 18,
 	"workbench.panel.showLabels": false,
 	"workbench.statusBar.visible": false,
-	"workbench.colorTheme": "Atom One Dark",
 	"editor.fontSize": 15,
 	"workbench.sideBar.location": "left",
 	"workbench.colorCustomizations": {
-		"terminal.foreground": "#FFFFFF"
+		"terminal.foreground": "#e1ddff"
 	},
 
 	//Editor
@@ -51,19 +50,19 @@
 		"editor.defaultFormatter": "foxundermoon.shell-format"
 	},
 	"editor.tokenColorCustomizations": {
-		"[Atom One Dark]": {
+		"[Tokyo City]": {
 			"textMateRules": [
 				{
 					"scope": "comment.line",
 					"settings": {
-						"foreground": "#c0c0c0", // Example of a comment
+						"foreground": "#e1ddff", // Example of a comment
 						"fontStyle": "italic"
 					}
 				},
 				{
 					"scope": "comment.block",
 					"settings": {
-						"foreground": "#c0c0c0"
+						"foreground": "#e1ddff"
 					}
 				}
 			]
@@ -73,7 +72,7 @@
 				{
 					"scope": "comment",
 					"settings": {
-						"foreground": "#c0c0c0",
+						"foreground": "#e1ddff",
 						"fontStyle": "italic"
 					}
 				}
@@ -138,5 +137,8 @@
 	"liveServer.settings.donotShowInfoMsg": true,
 	"explorer.confirmPasteNative": false,
 	"window.menuBarVisibility": "compact",
-	"window.commandCenter": false
+	"window.commandCenter": false,
+	"git.openRepositoryInParentFolders": "never",
+	"liveServer.settings.donotVerifyTags": true,
+	"workbench.colorTheme": "Tokyo City"
 }
