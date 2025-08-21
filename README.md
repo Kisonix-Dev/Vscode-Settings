@@ -1,14 +1,12 @@
 <p align="center"><img src=".github/img/new-img.png"></p>
 
-# My VScode settings
-
 > **ℹ️ Note**  
 > I decided to post my settings that I use in VScode on a regular basis.
 <br>
 <p align="center">
-<a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/settings.json"><img src="https://img.shields.io/badge/Settings-8A2BE2?style=for-the-badge&logo=gear&logoColor=white" alt="Settings"></a>
-<a href="https://github.com/Kisonix-Dev/Vscode-Settings/tree/main/snippets"><img src="https://img.shields.io/badge/Snippets-FFD700?style=for-the-badge&logo=gear&logoColor=black" alt="Snippets"></a>
-<a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/keybindings.json"><img src="https://img.shields.io/badge/KeyBindings-FF7F50?style=for-the-badge&logo=keyboard&logoColor=white" alt="KeyBindings"></a>
+<a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/settings.json"><img src="https://img.shields.io/badge/Settings-B4CDE6?style=for-the-badge&logo=gear&logoColor=black" alt="Settings"></a>
+<a href="https://github.com/Kisonix-Dev/Vscode-Settings/tree/main/snippets"><img src="https://img.shields.io/badge/Snippets-C9A8DE?style=for-the-badge&logo=gear&logoColor=black" alt="Snippets"></a>
+<a href="https://github.com/Kisonix-Dev/Vscode-Settings/blob/main/keybindings.json"><img src="https://img.shields.io/badge/KeyBindings-A5D6A7?style=for-the-badge&logo=keyboard&logoColor=black" alt="KeyBindings"></a></a>
 </p>
 
 # Extensions
