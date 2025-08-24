@@ -42,9 +42,7 @@
 	"editor.fontSize": 15,
 	"workbench.sideBar.location": "left",
 	"workbench.colorCustomizations": {
-		"terminal.foreground": "#e1ddff",
-		"terminal.background": "#0000",
-		"editor.background": "#d6d6d600"
+		"terminal.foreground": "#e1ddff"
 	},
 
 	//Editor
@@ -143,9 +141,5 @@
 	"git.openRepositoryInParentFolders": "never",
 	"liveServer.settings.donotVerifyTags": true,
 	"workbench.colorTheme": "Tokyo City",
-	"terminal.integrated.gpuAcceleration": "off",
-	"window.systemColorTheme": "dark",
-	"window.autoDetectColorScheme": false,
-	"window.controlsStyle": "custom",
 	"window.titleBarStyle": "custom"
 }
