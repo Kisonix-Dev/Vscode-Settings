@@ -22,6 +22,9 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
 	"prettier.useTabs": true,
 	"prettier.semi": false,
 	"prettier.jsxSingleQuote": true,
