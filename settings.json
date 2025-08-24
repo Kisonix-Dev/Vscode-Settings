@@ -91,7 +91,7 @@
 	"editor.fontFamily": "roboto",
 	"editor.fontWeight": "bold",
 	"editor.glyphMargin": false,
-	"editor.folding": false,
+	"editor.folding": true,
 	"editor.formatOnPaste": true,
 	"editor.minimap.enabled": false,
 	"editor.formatOnType": true,
